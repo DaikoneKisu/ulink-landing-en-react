@@ -1,6 +1,6 @@
 import react from '$assets/react.svg'
 
-function App() {
+export function App() {
   return (
     <>
       <p>¡Hola mundo!</p>
@@ -8,5 +8,3 @@ function App() {
     </>
   )
 }
-
-export default App

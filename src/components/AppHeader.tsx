@@ -8,7 +8,7 @@ export function AppHeader() {
       </a>
       <nav className="flex w-full items-center justify-around [&>a]:text-lg [&>a]:font-bold [&>a]:capitalize">
         <a href="#benefits">Beneficios</a>
-        <a href="#3">Objetivos</a>
+        <a href="#goals">Objetivos</a>
         <a href="#4">Catálogo</a>
         <a href="#5">Iniciar sesión</a>
       </nav>

@@ -11,7 +11,7 @@ export function LandingAnchorButton({
     <a
       href={href}
       className={
-        'inline-block rounded-[0.625rem] border-2 px-[3.25rem] py-5 font-bold uppercase shadow' +
+        'inline-flex h-[61px] w-[229px] items-center justify-center rounded-[0.625rem] border-2 text-[0.9375rem] font-bold uppercase shadow' +
         ' ' +
         className
       }

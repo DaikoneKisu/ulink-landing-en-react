@@ -38,11 +38,11 @@ export function FirstSight() {
         </small>
         <nav className="flex gap-3">
           <LandingAnchorButton
-            href={'#3'}
+            href={'#4'}
             text={'Ir al catálogo'}
             className="bg-ucab-green text-brand-white"
           />
-          <LandingAnchorButton href={'#4'} text={'Iniciar sesión'} className="bg-brand-white" />
+          <LandingAnchorButton href={'#5'} text={'Iniciar sesión'} className="bg-brand-white" />
         </nav>
       </div>
       <img

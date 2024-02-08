@@ -1,10 +1,11 @@
-import react from '$assets/react.svg'
+import { AppHeader } from './components/AppHeader'
+import { FirstSight } from './components/FirstSight'
 
 export function App() {
   return (
     <>
-      <p>¡Hola mundo!</p>
-      <img src={react} alt="" />
+      <AppHeader />
+      <FirstSight />
     </>
   )
 }

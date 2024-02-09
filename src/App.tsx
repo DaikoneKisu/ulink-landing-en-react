@@ -2,6 +2,7 @@ import { AppHeader } from './components/AppHeader'
 import { FirstSight } from './components/FirstSight'
 import { Benefits } from './components/Benefits'
 import { Goals } from './components/Goals'
+import { AppFooter } from './components/AppFooter'
 
 export function App() {
   return (
@@ -12,6 +13,7 @@ export function App() {
         <Benefits />
         <Goals />
       </main>
+      <AppFooter />
     </>
   )
 }

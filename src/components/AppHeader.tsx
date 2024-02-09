@@ -2,7 +2,7 @@ import headerImg from '$assets/app-header-img.svg'
 
 export function AppHeader() {
   return (
-    <header className="flex">
+    <header className="flex px-7 pt-3">
       <a href="/" className="h-[65px] w-[167px] flex-shrink-0 flex-grow-0">
         <img className="h-[65px] w-[167px]" src={headerImg} alt="ULink full logo" />
       </a>

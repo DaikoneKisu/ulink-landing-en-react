@@ -12,7 +12,7 @@ export function Benefits() {
     'Entendemos que nuestros egresados se especializan en diversas áreas y han cursado distintas carreras. Es por esta diversidad que se hace necesario crear CV específicos para diferentes campos laborales. Es aquí donde ULink se destaca, ofreciéndote la posibilidad de gestionar una amplia colección de CV, cada uno adaptado al área que buscas y resaltando tus habilidades específicas.'
 
   return (
-    <section id="benefits" className="flex flex-col gap-20">
+    <section id="benefits" className="flex w-full flex-col gap-20">
       <h2 className="text-center text-[2.50rem] font-bold">
         Nuestros beneficios a reclutadores y egresados
       </h2>

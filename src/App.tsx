@@ -7,9 +7,11 @@ export function App() {
   return (
     <>
       <AppHeader />
-      <FirstSight />
-      <Benefits />
-      <Goals />
+      <main className="flex flex-col items-center gap-14 px-7">
+        <FirstSight />
+        <Benefits />
+        <Goals />
+      </main>
     </>
   )
 }
